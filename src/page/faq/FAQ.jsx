@@ -40,8 +40,7 @@ const FAQ = () => {
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
-              Nulla facilisi. Phasellus sollicitudin nulla et quam mattis feugiat.
-              Aliquam eget maximus est, id dignissim quam.
+              ejhfoehflaf sfheifh hafcskah ihfasf;fhsahfa wyfiw ahslka
             </Typography>
           </AccordionDetails>
         </Accordion>

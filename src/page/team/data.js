@@ -1,0 +1,77 @@
+
+
+export const rows = [
+  {
+    id: 1,
+    name: "Ram Gurung ",
+    email: "ramgurung@gmail.com",
+    age: 25,
+    phone: "9779817989523",
+    access: "Admin",
+  },
+  {
+    id: 2,
+    name: "Birendra Magar",
+    email: "Birendramagar8@gmail.com",
+    age: 26,
+    phone: "9846213548",
+    access: "Admin",
+  },
+  {
+    id: 3,
+    name: "Navin Lamsal",
+    email: "lamsaldon@gmail.com",
+    age: 22,
+    phone: "977989452356",
+    access: "Admin",
+  },
+  {
+    id: 4,
+    name: "Bibek Achayra",
+    email: "nigga@gmail.com",
+    age: 16,
+    phone: "9779845659889",
+    access: "Manager",
+  },
+  {
+    id: 5,
+    name: "sandesh bhandari ",
+    email: "Sandeshbandari@gmail.com",
+    age: 31,
+    phone: "9779845689878",
+    access: "Manager",
+  },
+  {
+    id: 6,
+    name: "rashik neupane",
+    email: "rashik@gmail.com",
+    age: 26,
+    phone: "9789894598",
+    access: "User",
+  },
+  {
+    id: 7,
+    name: "sandy ",
+    email: "fsandyorton@gmail.com",
+    age: 24,
+    phone: "97989845682",
+    access: "User",
+  },
+  {
+    id: 8,
+    name: "Sagar Bhandari",
+    email: "rockergandu@gmail.com",
+    age: 36,
+    phone: "9896412356",
+    access: "User",
+  },
+  {
+    id: 9,
+    name: "hari karki",
+    email: "Haridai@gmail.com",
+    age: 35,
+    phone: "9871657984",
+    access: "User",
+  },
+];
+

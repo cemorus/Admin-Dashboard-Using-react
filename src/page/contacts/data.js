@@ -45,13 +45,13 @@ export const columns = [
 export const rows = [
   {
     id: 1,
-    name: "Jon Snow",
-    email: "jonsnow@gmail.com",
+    name: "Ram gurung ",
+    email: "ramgurung@gmail.com",
     age: 35,
     phone: "(665)121-5454",
-    address: "0912 Won Street, Alabama, SY 10001",
-    city: "New York",
-    zipCode: "10001",
+    address: "Pokhara-14 kudhar",
+    city: "Pokhara",
+    zipCode: "33700",
     registrarId: 123512,
   },
   {

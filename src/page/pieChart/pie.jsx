@@ -11,26 +11,26 @@ const data = [
     color: "hsl(107, 70%, 50%)",
   },
   {
-    id: "stylus",
-    label: "stylus",
+    id: "php",
+    label: "php",
     value: 543,
     color: "hsl(64, 70%, 50%)",
   },
   {
-    id: "sass",
-    label: "sass",
+    id: "next",
+    label: "next",
     value: 401,
     color: "hsl(41, 70%, 50%)",
   },
   {
-    id: "haskell",
-    label: "haskell",
+    id: "nest",
+    label: "nest",
     value: 434,
     color: "hsl(172, 70%, 50%)",
   },
   {
-    id: "nue",
-    label: "nue",
+    id: "java",
+    label: "java",
     value: 333,
     color: "hsl(219, 70%, 50%)",
   },
@@ -185,7 +185,7 @@ const Pie = ({ isDashbord = false }) => {
         fill={[
           {
             match: {
-              id: "ruby",
+              id: "php",
             },
             id: "dots",
           },
@@ -209,19 +209,19 @@ const Pie = ({ isDashbord = false }) => {
           },
           {
             match: {
-              id: "scala",
+              id: "next",
             },
             id: "lines",
           },
           {
             match: {
-              id: "lisp",
+              id: "nest",
             },
             id: "lines",
           },
           {
             match: {
-              id: "elixir",
+              id: "blockchain",
             },
             id: "lines",
           },
